@@ -1,0 +1,34 @@
+name: Aktualizácia MHD dát
+
+on:
+  schedule:
+    # Spustí sa každý deň o 3:00 ráno (UTC čas)
+    - cron: '0 3 * * *'
+  workflow_dispatch: # Umožní manuálne spustenie z karty Actions
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Stiahnutie repozitára
+        uses: actions/checkout@v4
+
+      - name: Nastavenie Pythonu
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Inštalácia závislostí
+        run: pip install -r requirements.txt
+
+      - name: Spustenie skriptu na spracovanie GTFS
+        run: python process_gtfs.py
+
+      - name: Uloženie výsledkov späť do repozitára
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add odchody.json
+          git commit -m "Aktualizácia MHD dát" || exit 0
+          git push
