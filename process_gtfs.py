@@ -5,7 +5,11 @@ import requests
 import pandas as pd
 
 # --- KONFIGURÁCIA ---
-STOP_ID = "000000023400001" # Líščie nivy
+# Líščie nivy
+STOP_IDS = [
+    "000000023400003", # zastavka C
+    "000000023400001", # zastavka A
+]
 GTFS_URL = "https://www.arcgis.com/sharing/rest/content/items/aba12fd2cbac4843bc7406151bc66106/data"
 OUTPUT_FILE = "odchody.json"
 
@@ -20,17 +24,17 @@ def main():
         trips = pd.read_csv(z.open('trips.txt'), dtype=str)
         routes = pd.read_csv(z.open('routes.txt'), dtype=str)
 
-    print(f"Hľadám spoje pre zastávku {STOP_ID}...")
+    # OPRAVA: Používame .isin(STOP_IDS) namiesto == STOP_ID, aby to bralo obe zastávky
+    print(f"Hľadám spoje pre zastávky: {STOP_IDS}...")
     
-    # 1. Nájdeme všetky spoje pre našu zastávku
-    my_stop_times = stop_times[stop_times['stop_id'] == STOP_ID].copy()
+    # 1. Nájdeme všetky spoje pre naše zastávky
+    my_stop_times = stop_times[stop_times['stop_id'].isin(STOP_IDS)].copy()
     
     if my_stop_times.empty:
-        print("Pre túto zastávku neboli nájdené žiadne spoje.")
+        print("Pre tieto zastávky neboli nájdené žiadne spoje.")
         return
 
     # 2. Vyfiltrujeme len časy medzi 07:00 a 21:00
-    # Keďže sú časy uložené ako stringy (napr. "07:15:00"), môžeme ich porovnávať abecedne
     my_stop_times = my_stop_times[
         (my_stop_times['departure_time'] >= '07:00:00') & 
         (my_stop_times['departure_time'] <= '21:00:00')
@@ -40,10 +44,14 @@ def main():
     my_trips = pd.merge(my_stop_times, trips, on='trip_id', how='left')
     my_trips = pd.merge(my_trips, routes, on='route_id', how='left')
 
-    # 4. Zoradíme podľa času odchodu
+    # 4. ODSTRÁNENIE DUPLICÍT
+    # Ak máme rovnakú linku, smer a čas, necháme len jeden záznam
+    my_trips = my_trips.drop_duplicates(subset=['route_short_name', 'trip_headsign', 'departure_time'])
+
+    # 5. Zoradíme podľa času odchodu
     my_trips = my_trips.sort_values(by='departure_time')
 
-    # 5. Vytvoríme zoznam výsledkov
+    # 6. Vytvoríme zoznam výsledkov
     vysledky = []
     for _, row in my_trips.iterrows():
         vysledky.append({
