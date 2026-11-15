@@ -23,63 +23,40 @@ def main():
         trips = pd.read_csv(z.open('trips.txt'), dtype=str)
         routes = pd.read_csv(z.open('routes.txt'), dtype=str)
         calendar = pd.read_csv(z.open('calendar.txt'), dtype=str)
-        calendar_dates = pd.read_csv(z.open('calendar_dates.txt'), dtype=str)
 
-    # 1. ZISTÍME DNEŠNÝ DÁTUM A DEŇ V TÝŽDNI
-    dnes_datum = datetime.now().strftime('%Y%m%d')  # napr. '20261117'
-    dnes_den = datetime.now().strftime('%A').lower() # napr. 'tuesday'
-    print(f"Dnes je {dnes_den} ({dnes_datum}). Filtrujem spoje.")
+    # 1. ZISTÍME AKTUÁLNY DEŇ
+    # Zistíme, aký je dnes deň (napr. 'monday', 'tuesday' atď.)
+    dnes = datetime.now().strftime('%A').lower()
+    print(f"Dnes je {dnes}. Filtrujem spoje len pre tento deň.")
 
-    # 2. ZÁKLADNÝ ZOZNAM SLUŽIEB Z CALENDAR.TXT
-    # Vyberieme služby, ktoré podľa týždenného kalendára dnes majú ísť
-    # a zároveň ich platnosť (start_date, end_date) zahŕňa dnešný dátum
-    zakladne_sluzby = calendar[
-        (calendar[dnes_den] == '1') &
-        (calendar['start_date'] <= dnes_datum) &
-        (calendar['end_date'] >= dnes_datum)
-    ]['service_id'].tolist()
+    # 2. NÁJDEME SLUŽBY (SERVICE_ID), KTORÉ DNES PREMÁVAJÚ
+    # V súbore calendar.txt hľadáme riadky, kde je pre dnešný deň jednotka ('1')
+    dnesne_sluzby = calendar[calendar[dnes] == '1']['service_id'].tolist()
+    
+    # 3. VYFILTRUJEME SPOJE (TRIPS) LEN PRE DNEŠNÉ SLUŽBY
+    dnesne_trips = trips[trips['service_id'].isin(dnesne_sluzby)].copy()
 
-    # 3. APLIKUJEME VÝNIMKY Z CALENDAR_DATES.TXT
-    # Výnimky pre dnešný dátum
-    dnesne_vyimky = calendar_dates[calendar_dates['date'] == dnes_datum]
-
-    # Služby, ktoré dnes NEJDÚ (exception_type == '2')
-    odstavene_sluzby = dnesne_vyimky[dnesne_vyimky['exception_type'] == '2']['service_id'].tolist()
-
-    # Služby, ktoré dnes IDÚ (exception_type == '1')
-    pridane_sluzby = dnesne_vyimky[dnesne_vyimky['exception_type'] == '1']['service_id'].tolist()
-
-    # Výsledný zoznam aktívnych služieb
-    aktivne_sluzby = set(zakladne_sluzby) - set(odstavene_sluzby) | set(pridane_sluzby)
-
-    if not aktivne_sluzby:
-        print("Dnes nepremáva žiadna služba.")
-        return
-
-    # 4. VYFILTRUJEME SPOJE (TRIPS) LEN PRE AKTÍVNE SLUŽBY
-    dnesne_trips = trips[trips['service_id'].isin(aktivne_sluzby)].copy()
-
-    print(f"Hľadám spoje pre zastávky: {STOP_IDS}...")
-    # 5. Nájdeme odchody pre naše zastávky
+    print("Hľadám spoje pre zastávky...")
+    # 4. Nájdeme odchody pre naše zastávky
     my_stop_times = stop_times[stop_times['stop_id'].isin(STOP_IDS)].copy()
     
-    # 6. Vyfiltrujeme len časy medzi 07:00 a 21:00
+    # 5. Vyfiltrujeme len časy medzi 07:00 a 21:00
     my_stop_times = my_stop_times[
         (my_stop_times['departure_time'] >= '07:00:00') & 
         (my_stop_times['departure_time'] <= '21:00:00')
     ]
 
-    # 7. Spojíme to dokopy
+    # 6. Spojíme to dokopy (a aplikujeme filter dnešných spojov)
     my_trips = pd.merge(my_stop_times, dnesne_trips, on='trip_id', how='inner')
     my_trips = pd.merge(my_trips, routes, on='route_id', how='left')
 
-    # 8. Odstránime duplicity
+    # 7. Odstránime duplicity
     my_trips = my_trips.drop_duplicates(subset=['route_short_name', 'trip_headsign', 'departure_time'])
 
-    # 9. Zoradíme podľa času
+    # 8. Zoradíme podľa času
     my_trips = my_trips.sort_values(by='departure_time')
 
-    # 10. Vytvoríme JSON
+    # 9. Vytvoríme JSON
     vysledky = []
     for _, row in my_trips.iterrows():
         vysledky.append({
