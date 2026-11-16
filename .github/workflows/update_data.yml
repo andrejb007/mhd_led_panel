@@ -3,7 +3,7 @@ name: Aktualizácia MHD dát
 on:
   schedule:
     # Spustí sa každý deň o 3:00 ráno (UTC čas)
-    - cron: '0 3 * * *'
+    - cron: '17 2 * * *'
   workflow_dispatch: # Umožní manuálne spustenie z karty Actions
 
 jobs:
