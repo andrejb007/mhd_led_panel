@@ -2,832 +2,1817 @@
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "07:00:00"
+    "cas": "07:03:00"
   },
   {
     "linka": "50",
     "smer": "OC Einsteinova",
-    "cas": "07:04:45"
+    "cas": "07:04:00"
   },
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "07:10:00"
+    "cas": "07:04:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "07:07:00"
   },
   {
     "linka": "50",
     "smer": "OC Einsteinova",
-    "cas": "07:19:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "07:20:00"
+    "cas": "07:09:00"
   },
   {
     "linka": "66",
     "smer": "Grófska niva",
-    "cas": "07:29:30"
+    "cas": "07:09:45"
   },
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "07:30:00"
+    "cas": "07:10:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "07:11:00"
   },
   {
     "linka": "50",
     "smer": "OC Einsteinova",
-    "cas": "07:34:45"
+    "cas": "07:14:00"
   },
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "07:40:00"
+    "cas": "07:15:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "07:16:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "07:19:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "07:22:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "07:23:00"
   },
   {
     "linka": "50",
     "smer": "OC Einsteinova",
-    "cas": "07:49:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "07:50:00"
+    "cas": "07:24:00"
   },
   {
     "linka": "66",
     "smer": "Grófska niva",
-    "cas": "07:59:30"
+    "cas": "07:24:45"
   },
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "08:00:00"
+    "cas": "07:27:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "07:28:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "07:31:00"
   },
   {
     "linka": "50",
     "smer": "OC Einsteinova",
-    "cas": "08:04:45"
+    "cas": "07:34:00"
   },
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "08:10:00"
+    "cas": "07:34:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "07:35:00"
   },
   {
     "linka": "50",
     "smer": "OC Einsteinova",
-    "cas": "08:19:45"
+    "cas": "07:39:00"
   },
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "08:20:00"
+    "cas": "07:39:00"
   },
   {
     "linka": "66",
     "smer": "Grófska niva",
-    "cas": "08:29:30"
+    "cas": "07:39:45"
   },
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "08:30:00"
+    "cas": "07:40:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "07:43:00"
   },
   {
     "linka": "50",
     "smer": "OC Einsteinova",
-    "cas": "08:34:45"
+    "cas": "07:44:00"
   },
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "08:40:00"
+    "cas": "07:46:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "07:47:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "07:51:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "07:52:30"
   },
   {
     "linka": "50",
     "smer": "OC Einsteinova",
-    "cas": "08:49:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "08:50:00"
+    "cas": "07:54:00"
   },
   {
     "linka": "66",
     "smer": "Grófska niva",
-    "cas": "08:59:30"
+    "cas": "07:54:45"
   },
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "09:00:00"
+    "cas": "07:55:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "07:58:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "07:59:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "08:03:00"
   },
   {
     "linka": "50",
     "smer": "OC Einsteinova",
-    "cas": "09:04:45"
+    "cas": "08:04:00"
   },
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "09:10:00"
+    "cas": "08:04:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "08:07:00"
   },
   {
     "linka": "50",
     "smer": "OC Einsteinova",
-    "cas": "09:19:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "09:20:00"
+    "cas": "08:09:00"
   },
   {
     "linka": "66",
     "smer": "Grófska niva",
-    "cas": "09:29:30"
+    "cas": "08:09:45"
   },
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "09:30:00"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "09:34:45"
+    "cas": "08:10:30"
   },
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "09:40:00"
+    "cas": "08:11:30"
   },
   {
     "linka": "50",
     "smer": "OC Einsteinova",
-    "cas": "09:49:45"
+    "cas": "08:14:00"
   },
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "09:50:00"
+    "cas": "08:16:30"
   },
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "09:58:45"
-  },
-  {
-    "linka": "66",
-    "smer": "Grófska niva",
-    "cas": "09:59:30"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "10:04:45"
+    "cas": "08:21:30"
   },
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "10:06:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "10:13:45"
+    "cas": "08:22:30"
   },
   {
     "linka": "50",
     "smer": "OC Einsteinova",
-    "cas": "10:19:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "10:21:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "10:28:45"
-  },
-  {
-    "linka": "66",
-    "smer": "Grófska niva",
-    "cas": "10:29:30"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "10:34:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "10:36:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "10:43:45"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "10:49:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "10:51:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "10:58:45"
-  },
-  {
-    "linka": "66",
-    "smer": "Grófska niva",
-    "cas": "10:59:30"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "11:04:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "11:06:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "11:13:45"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "11:19:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "11:21:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "11:28:45"
-  },
-  {
-    "linka": "66",
-    "smer": "Grófska niva",
-    "cas": "11:29:30"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "11:34:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "11:36:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "11:43:45"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "11:49:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "11:51:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "11:58:45"
-  },
-  {
-    "linka": "66",
-    "smer": "Grófska niva",
-    "cas": "11:59:30"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "12:04:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "12:06:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "12:13:45"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "12:19:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "12:21:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "12:28:45"
-  },
-  {
-    "linka": "66",
-    "smer": "Grófska niva",
-    "cas": "12:29:30"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "12:34:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "12:36:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "12:43:45"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "12:49:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "12:51:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "12:58:45"
-  },
-  {
-    "linka": "66",
-    "smer": "Grófska niva",
-    "cas": "12:59:30"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "13:04:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "13:06:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "13:13:45"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "13:19:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "13:21:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "13:28:45"
-  },
-  {
-    "linka": "66",
-    "smer": "Grófska niva",
-    "cas": "13:29:30"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "13:34:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "13:36:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "13:43:45"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "13:49:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "13:51:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "13:58:45"
-  },
-  {
-    "linka": "66",
-    "smer": "Grófska niva",
-    "cas": "13:59:30"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "14:04:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "14:06:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "14:13:45"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "14:19:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "14:21:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "14:28:45"
-  },
-  {
-    "linka": "66",
-    "smer": "Grófska niva",
-    "cas": "14:29:30"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "14:34:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "14:36:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "14:43:45"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "14:49:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "14:51:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "14:58:45"
-  },
-  {
-    "linka": "66",
-    "smer": "Grófska niva",
-    "cas": "14:59:30"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "15:04:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "15:06:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "15:13:45"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "15:19:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "15:21:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "15:28:45"
-  },
-  {
-    "linka": "66",
-    "smer": "Grófska niva",
-    "cas": "15:29:30"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "15:34:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "15:36:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "15:43:45"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "15:49:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "15:51:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "15:58:45"
-  },
-  {
-    "linka": "66",
-    "smer": "Grófska niva",
-    "cas": "15:59:30"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "16:04:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "16:06:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "16:13:45"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "16:19:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "16:21:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "16:28:45"
-  },
-  {
-    "linka": "66",
-    "smer": "Grófska niva",
-    "cas": "16:29:30"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "16:34:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "16:36:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "16:43:45"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "16:49:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "16:51:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "16:58:45"
-  },
-  {
-    "linka": "66",
-    "smer": "Grófska niva",
-    "cas": "16:59:30"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "17:04:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "17:06:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "17:13:45"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "17:19:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "17:21:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "17:28:45"
-  },
-  {
-    "linka": "66",
-    "smer": "Grófska niva",
-    "cas": "17:29:30"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "17:34:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "17:36:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "17:43:45"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "17:49:45"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "17:51:15"
+    "cas": "08:24:00"
   },
   {
     "linka": "9",
     "smer": "Krížna",
-    "cas": "17:55:00"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "17:58:45"
+    "cas": "08:24:30"
   },
   {
     "linka": "66",
     "smer": "Grófska niva",
-    "cas": "17:59:30"
+    "cas": "08:24:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "08:26:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "08:29:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "08:31:30"
   },
   {
     "linka": "50",
     "smer": "OC Einsteinova",
-    "cas": "18:04:45"
+    "cas": "08:34:00"
   },
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "18:06:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "18:13:45"
+    "cas": "08:36:30"
   },
   {
     "linka": "50",
     "smer": "OC Einsteinova",
-    "cas": "18:19:45"
+    "cas": "08:39:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Krížna",
+    "cas": "08:40:15"
   },
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "18:21:15"
+    "cas": "08:41:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "08:44:00"
   },
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "18:28:45"
+    "cas": "08:44:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Krížna",
+    "cas": "08:44:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "08:46:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "08:51:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "08:54:00"
   },
   {
     "linka": "66",
     "smer": "Grófska niva",
-    "cas": "18:29:30"
+    "cas": "08:54:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "08:56:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "08:59:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "09:01:30"
   },
   {
     "linka": "50",
     "smer": "OC Einsteinova",
-    "cas": "18:34:45"
+    "cas": "09:04:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Krížna",
+    "cas": "09:04:30"
   },
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "18:36:15"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "18:43:45"
+    "cas": "09:06:30"
   },
   {
     "linka": "50",
     "smer": "OC Einsteinova",
-    "cas": "18:49:45"
+    "cas": "09:09:00"
   },
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "18:51:15"
+    "cas": "09:11:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "09:14:00"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "09:14:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "09:16:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "09:21:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "09:24:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Krížna",
+    "cas": "09:24:30"
   },
   {
     "linka": "66",
     "smer": "Grófska niva",
-    "cas": "18:59:30"
+    "cas": "09:24:45"
   },
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "19:00:00"
+    "cas": "09:26:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "09:29:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "09:31:30"
   },
   {
     "linka": "50",
     "smer": "OC Einsteinova",
-    "cas": "19:04:45"
+    "cas": "09:34:00"
   },
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "19:10:00"
+    "cas": "09:36:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "09:39:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Krížna",
+    "cas": "09:40:15"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "09:41:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "09:44:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "09:44:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Krížna",
+    "cas": "09:44:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "09:46:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "09:51:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "09:54:00"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "09:54:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "09:56:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "09:59:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "10:01:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Krížna",
+    "cas": "10:02:45"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "10:04:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "10:06:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "10:09:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "10:11:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "10:14:00"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "10:14:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "10:16:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "10:21:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "10:24:00"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "10:24:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "10:26:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "10:29:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "10:31:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "10:34:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "10:36:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "10:39:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "10:41:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "10:44:00"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "10:44:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "10:46:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "10:51:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "10:54:00"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "10:54:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "10:56:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "10:59:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "11:01:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "11:04:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "11:06:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "11:09:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "11:11:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "11:14:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "11:14:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "11:16:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "11:21:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "11:24:00"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "11:24:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "11:26:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "11:29:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "11:31:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "11:34:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "11:36:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "11:39:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "11:41:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "11:44:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "11:44:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "11:46:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "11:51:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "11:54:00"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "11:54:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "11:56:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "11:59:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "12:01:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "12:04:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "12:06:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "12:09:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "12:11:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "12:14:00"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "12:14:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "12:16:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "12:21:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "12:24:00"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "12:24:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "12:26:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "12:29:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "12:31:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "12:34:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "12:36:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "12:39:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "12:41:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "12:44:00"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "12:44:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "12:46:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "12:51:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "12:54:00"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "12:54:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "12:56:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "12:59:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "13:01:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "13:04:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "13:06:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "13:09:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "13:11:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "13:14:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "13:14:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "13:16:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "13:21:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "13:24:00"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "13:24:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "13:26:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "13:29:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "13:31:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "13:34:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "13:36:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "13:41:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "13:41:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "13:44:00"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "13:44:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "13:46:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "13:49:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "13:51:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "13:54:00"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "13:54:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "13:56:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "13:56:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "13:59:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "14:01:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "14:04:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "14:06:30"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "14:09:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "14:11:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "14:11:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "14:14:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "14:14:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "14:16:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "14:19:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "14:21:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "14:24:00"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "14:24:45"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "14:26:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "14:26:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "14:29:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "14:31:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "14:34:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "14:36:30"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "14:39:45"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "14:41:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "14:41:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "14:44:00"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "14:44:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "14:46:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "14:49:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "14:51:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "14:54:00"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "14:54:45"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "14:56:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "14:56:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "14:59:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "15:01:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "15:04:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "15:06:30"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "15:09:45"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "15:11:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "15:11:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "15:14:00"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "15:14:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "15:16:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "15:19:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "15:21:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "15:24:00"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "15:24:45"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "15:26:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "15:26:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "15:29:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "15:31:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "15:34:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "15:36:30"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "15:39:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "15:41:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "15:41:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "15:44:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "15:44:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "15:46:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "15:49:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "15:51:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "15:54:00"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "15:54:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "15:56:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "15:56:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "15:59:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "16:01:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "16:04:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "16:06:30"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "16:09:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "16:11:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "16:11:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "16:14:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "16:14:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "16:16:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "16:19:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "16:21:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "16:24:00"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "16:24:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "16:26:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "16:26:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "16:29:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "16:31:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "16:34:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "16:36:30"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "16:39:45"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "16:41:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "16:41:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "16:44:00"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "16:44:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "16:46:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "16:49:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "16:51:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "16:54:00"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "16:54:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "16:56:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "16:56:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "16:59:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "17:01:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "17:04:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "17:06:30"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "17:09:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "17:11:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "17:11:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "17:14:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "17:14:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "17:16:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "17:19:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "17:21:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "17:24:00"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "17:24:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "17:26:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "17:26:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "17:29:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "17:31:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "17:34:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "17:36:30"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "17:39:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "17:41:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "17:41:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "17:44:00"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "17:44:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "17:46:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "17:49:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "17:51:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "17:54:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "17:56:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "17:56:30"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "17:57:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "17:59:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "18:01:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "18:04:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "18:06:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "18:11:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "18:14:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "18:14:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "18:16:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "18:21:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "18:24:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "18:26:30"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "18:27:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "18:29:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "18:31:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "18:34:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "18:36:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "18:39:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "18:41:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "18:44:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "18:44:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "18:46:30"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "18:51:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "18:54:00"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "18:58:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "18:59:00"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "19:03:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "19:06:00"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "19:07:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "19:12:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "19:13:45"
   },
   {
     "linka": "50",
@@ -837,7 +1822,17 @@
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "19:20:00"
+    "cas": "19:21:15"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "19:22:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "19:28:45"
   },
   {
     "linka": "66",
@@ -846,8 +1841,13 @@
   },
   {
     "linka": "9",
-    "smer": "Kútiky",
-    "cas": "19:30:00"
+    "smer": "Krížna",
+    "cas": "19:32:30"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "19:32:45"
   },
   {
     "linka": "50",
@@ -856,13 +1856,23 @@
   },
   {
     "linka": "9",
-    "smer": "Krížna",
-    "cas": "19:37:00"
+    "smer": "Kútiky",
+    "cas": "19:36:15"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "19:42:45"
   },
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "19:40:00"
+    "cas": "19:43:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Krížna",
+    "cas": "19:47:30"
   },
   {
     "linka": "50",
@@ -872,17 +1882,27 @@
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "19:50:00"
+    "cas": "19:51:15"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "19:52:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Krížna",
+    "cas": "19:55:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "19:58:45"
   },
   {
     "linka": "66",
     "smer": "Grófska niva",
     "cas": "19:59:30"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "20:00:00"
   },
   {
     "linka": "50",
@@ -891,13 +1911,13 @@
   },
   {
     "linka": "9",
-    "smer": "Krížna",
-    "cas": "20:07:00"
+    "smer": "Kútiky",
+    "cas": "20:06:15"
   },
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "20:10:00"
+    "cas": "20:13:45"
   },
   {
     "linka": "50",
@@ -907,17 +1927,17 @@
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "20:20:00"
+    "cas": "20:21:15"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "20:28:45"
   },
   {
     "linka": "66",
     "smer": "Grófska niva",
     "cas": "20:29:30"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "20:30:00"
   },
   {
     "linka": "50",
@@ -927,7 +1947,12 @@
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "20:40:00"
+    "cas": "20:36:15"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "20:43:45"
   },
   {
     "linka": "50",
@@ -937,7 +1962,7 @@
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "20:50:00"
+    "cas": "20:51:15"
   },
   {
     "linka": "66",
@@ -947,6 +1972,6 @@
   {
     "linka": "9",
     "smer": "Kútiky",
-    "cas": "21:00:00"
+    "cas": "20:59:45"
   }
 ]
