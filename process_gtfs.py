@@ -43,7 +43,7 @@ def main():
     # 5. Vyfiltrujeme len časy medzi 07:00 a 21:00
     my_stop_times = my_stop_times[
         (my_stop_times['departure_time'] >= '07:00:00') & 
-        (my_stop_times['departure_time'] <= '21:00:00')
+        (my_stop_times['departure_time'] <= '22:00:00')
     ]
 
     # 6. Spojíme to dokopy (a aplikujeme filter dnešných spojov)
