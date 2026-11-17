@@ -450,13 +450,13 @@
     "cas": "09:41:30"
   },
   {
-    "linka": "50",
-    "smer": "OC Einsteinova",
+    "linka": "9",
+    "smer": "Kútiky",
     "cas": "09:44:00"
   },
   {
-    "linka": "9",
-    "smer": "Kútiky",
+    "linka": "50",
+    "smer": "OC Einsteinova",
     "cas": "09:44:00"
   },
   {
@@ -590,13 +590,13 @@
     "cas": "10:41:30"
   },
   {
-    "linka": "9",
-    "smer": "Kútiky",
+    "linka": "50",
+    "smer": "OC Einsteinova",
     "cas": "10:44:00"
   },
   {
-    "linka": "50",
-    "smer": "OC Einsteinova",
+    "linka": "9",
+    "smer": "Kútiky",
     "cas": "10:44:00"
   },
   {
@@ -785,13 +785,13 @@
     "cas": "12:11:30"
   },
   {
-    "linka": "9",
-    "smer": "Kútiky",
+    "linka": "50",
+    "smer": "OC Einsteinova",
     "cas": "12:14:00"
   },
   {
-    "linka": "50",
-    "smer": "OC Einsteinova",
+    "linka": "9",
+    "smer": "Kútiky",
     "cas": "12:14:00"
   },
   {
@@ -850,13 +850,13 @@
     "cas": "12:41:30"
   },
   {
-    "linka": "9",
-    "smer": "Kútiky",
+    "linka": "50",
+    "smer": "OC Einsteinova",
     "cas": "12:44:00"
   },
   {
-    "linka": "50",
-    "smer": "OC Einsteinova",
+    "linka": "9",
+    "smer": "Kútiky",
     "cas": "12:44:00"
   },
   {
@@ -980,13 +980,13 @@
     "cas": "13:41:30"
   },
   {
-    "linka": "9",
-    "smer": "Kútiky",
+    "linka": "50",
+    "smer": "OC Einsteinova",
     "cas": "13:44:00"
   },
   {
-    "linka": "50",
-    "smer": "OC Einsteinova",
+    "linka": "9",
+    "smer": "Kútiky",
     "cas": "13:44:00"
   },
   {
@@ -1050,13 +1050,13 @@
     "cas": "14:09:45"
   },
   {
-    "linka": "9",
-    "smer": "Kútiky",
+    "linka": "50",
+    "smer": "OC Einsteinova",
     "cas": "14:11:30"
   },
   {
-    "linka": "50",
-    "smer": "OC Einsteinova",
+    "linka": "9",
+    "smer": "Kútiky",
     "cas": "14:11:30"
   },
   {
@@ -1095,13 +1095,13 @@
     "cas": "14:24:45"
   },
   {
-    "linka": "50",
-    "smer": "OC Einsteinova",
+    "linka": "9",
+    "smer": "Kútiky",
     "cas": "14:26:30"
   },
   {
-    "linka": "9",
-    "smer": "Kútiky",
+    "linka": "50",
+    "smer": "OC Einsteinova",
     "cas": "14:26:30"
   },
   {
@@ -1130,23 +1130,23 @@
     "cas": "14:39:45"
   },
   {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "14:41:30"
+  },
+  {
     "linka": "50",
     "smer": "OC Einsteinova",
     "cas": "14:41:30"
   },
   {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "14:41:30"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
+    "linka": "50",
+    "smer": "OC Einsteinova",
     "cas": "14:44:00"
   },
   {
-    "linka": "50",
-    "smer": "OC Einsteinova",
+    "linka": "9",
+    "smer": "Kútiky",
     "cas": "14:44:00"
   },
   {
@@ -1210,23 +1210,23 @@
     "cas": "15:09:45"
   },
   {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "15:11:30"
+  },
+  {
     "linka": "50",
     "smer": "OC Einsteinova",
     "cas": "15:11:30"
   },
   {
-    "linka": "9",
-    "smer": "Kútiky",
-    "cas": "15:11:30"
-  },
-  {
-    "linka": "9",
-    "smer": "Kútiky",
+    "linka": "50",
+    "smer": "OC Einsteinova",
     "cas": "15:14:00"
   },
   {
-    "linka": "50",
-    "smer": "OC Einsteinova",
+    "linka": "9",
+    "smer": "Kútiky",
     "cas": "15:14:00"
   },
   {
@@ -1255,13 +1255,13 @@
     "cas": "15:24:45"
   },
   {
-    "linka": "50",
-    "smer": "OC Einsteinova",
+    "linka": "9",
+    "smer": "Kútiky",
     "cas": "15:26:30"
   },
   {
-    "linka": "9",
-    "smer": "Kútiky",
+    "linka": "50",
+    "smer": "OC Einsteinova",
     "cas": "15:26:30"
   },
   {
@@ -1300,13 +1300,13 @@
     "cas": "15:41:30"
   },
   {
-    "linka": "50",
-    "smer": "OC Einsteinova",
+    "linka": "9",
+    "smer": "Kútiky",
     "cas": "15:44:00"
   },
   {
-    "linka": "9",
-    "smer": "Kútiky",
+    "linka": "50",
+    "smer": "OC Einsteinova",
     "cas": "15:44:00"
   },
   {
@@ -1370,23 +1370,23 @@
     "cas": "16:09:45"
   },
   {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "16:11:30"
+  },
+  {
     "linka": "9",
     "smer": "Kútiky",
     "cas": "16:11:30"
   },
   {
-    "linka": "50",
-    "smer": "OC Einsteinova",
-    "cas": "16:11:30"
-  },
-  {
-    "linka": "50",
-    "smer": "OC Einsteinova",
+    "linka": "9",
+    "smer": "Kútiky",
     "cas": "16:14:00"
   },
   {
-    "linka": "9",
-    "smer": "Kútiky",
+    "linka": "50",
+    "smer": "OC Einsteinova",
     "cas": "16:14:00"
   },
   {
@@ -1460,13 +1460,13 @@
     "cas": "16:41:30"
   },
   {
-    "linka": "9",
-    "smer": "Kútiky",
+    "linka": "50",
+    "smer": "OC Einsteinova",
     "cas": "16:44:00"
   },
   {
-    "linka": "50",
-    "smer": "OC Einsteinova",
+    "linka": "9",
+    "smer": "Kútiky",
     "cas": "16:44:00"
   },
   {
@@ -1650,13 +1650,13 @@
     "cas": "17:54:00"
   },
   {
-    "linka": "9",
-    "smer": "Kútiky",
+    "linka": "50",
+    "smer": "OC Einsteinova",
     "cas": "17:56:30"
   },
   {
-    "linka": "50",
-    "smer": "OC Einsteinova",
+    "linka": "9",
+    "smer": "Kútiky",
     "cas": "17:56:30"
   },
   {
@@ -1690,13 +1690,13 @@
     "cas": "18:11:30"
   },
   {
-    "linka": "50",
-    "smer": "OC Einsteinova",
+    "linka": "9",
+    "smer": "Kútiky",
     "cas": "18:14:00"
   },
   {
-    "linka": "9",
-    "smer": "Kútiky",
+    "linka": "50",
+    "smer": "OC Einsteinova",
     "cas": "18:14:00"
   },
   {
@@ -1973,5 +1973,75 @@
     "linka": "9",
     "smer": "Kútiky",
     "cas": "20:59:45"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "21:04:15"
+  },
+  {
+    "linka": "9",
+    "smer": "Krížna",
+    "cas": "21:06:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "21:09:45"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "21:18:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "21:19:45"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "21:26:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "21:29:45"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "21:33:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Krížna",
+    "cas": "21:36:45"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "21:39:45"
+  },
+  {
+    "linka": "50",
+    "smer": "OC Einsteinova",
+    "cas": "21:48:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "21:49:45"
+  },
+  {
+    "linka": "66",
+    "smer": "Grófska niva",
+    "cas": "21:56:00"
+  },
+  {
+    "linka": "9",
+    "smer": "Kútiky",
+    "cas": "21:59:45"
   }
 ]
